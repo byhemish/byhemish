@@ -50,12 +50,6 @@ I'm passionate about building software, exploring Artificial Intelligence, and c
 
 Coming soon...
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byhemish\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byhemish\&layout=compact)
-
 ## Connect With Me
 
 * GitHub: https://github.com/byhemish
