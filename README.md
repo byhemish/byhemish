@@ -1,12 +1,14 @@
 # Hi, I'm Hemish Ravi
 
-**Computer Science Student | Aspiring AI & Machine Learning Engineer**
+**Software Development Student at the University of Stirling | NASA Space Apps ’25 Participant | Aspiring Cybersecurity Engineer focused on AI and secure systems**
 
-I'm passionate about building software, exploring Artificial Intelligence, and continuously learning new technologies. I enjoy turning ideas into projects and sharing my learning journey through GitHub.
+I’m passionate about building software, exploring Artificial Intelligence, and continuously learning new technologies. I enjoy turning ideas into projects and sharing my learning journey through GitHub.
 
 ## About Me
 
-* Computer Science student
+* Software Development student at the University of Stirling
+* NASA Space Apps ’25 participant
+* Aspiring Cybersecurity Engineer with interest in AI and secure systems
 * Currently learning Artificial Intelligence and Machine Learning
 * Building projects with Python
 * Exploring Linux and open-source software
@@ -35,7 +37,7 @@ I'm passionate about building software, exploring Artificial Intelligence, and c
 
 * Machine Learning projects
 * Python automation scripts
-* Improving my Git & GitHub workflow
+* Improving Git & GitHub workflow
 * Building a strong developer portfolio
 
 ## Goals for 2026
@@ -44,6 +46,7 @@ I'm passionate about building software, exploring Artificial Intelligence, and c
 * Contribute to open-source projects
 * Learn Deep Learning
 * Learn Computer Vision
+* Develop skills in cybersecurity and secure systems
 * Write technical articles about AI and programming
 
 ## Featured Projects
@@ -56,4 +59,4 @@ Coming soon...
 
 ---
 
-> "Keep learning. Keep building. Keep improving."
+> Keep learning. Keep building. Keep improving.
