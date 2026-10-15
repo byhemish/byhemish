@@ -1,62 +1,22 @@
 # Hi, I'm Hemish Ravi
 
-**Software Development Student at the University of Stirling | NASA Space Apps ’25 Participant | Aspiring Cybersecurity Engineer focused on AI and secure systems**
+I'm a Software Development student at the University of Stirling interested in Python, AI, and cybersecurity.
 
-I’m passionate about building software, exploring Artificial Intelligence, and continuously learning new technologies. I enjoy turning ideas into projects and sharing my learning journey through GitHub.
+I enjoy experimenting with code, learning how things work, and building projects along the way. I also took part in NASA Space Apps 2025, which gave me another opportunity to explore technology and solve problems with code.
 
-## About Me
+### What I'm interested in
+- Python development and automation
+- Artificial intelligence and machine learning
+- Cybersecurity and secure systems
+- Linux and open-source software
 
-* Software Development student at the University of Stirling
-* NASA Space Apps ’25 participant
-* Aspiring Cybersecurity Engineer with interest in AI and secure systems
-* Currently learning Artificial Intelligence and Machine Learning
-* Building projects with Python
-* Exploring Linux and open-source software
-* Interested in software development, automation, and data science
+### Tools I use
+- **Languages:** Python, HTML, CSS
+- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
+- **Tools:** Git, GitHub, Linux, VS Code
 
-## Tech Stack
+### What I'm learning
+Currently exploring machine learning, improving my Python skills, and working on projects that help me understand the technologies I'm interested in.
 
-**Languages**
-
-* Python
-* HTML
-* CSS
-
-**Tools & Technologies**
-
-* Git
-* GitHub
-* Linux
-* VS Code
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-
-## Currently Working On
-
-* Machine Learning projects
-* Python automation scripts
-* Improving Git & GitHub workflow
-* Building a strong developer portfolio
-
-## Goals for 2026
-
-* Build 25+ high-quality GitHub projects
-* Contribute to open-source projects
-* Learn Deep Learning
-* Learn Computer Vision
-* Develop skills in cybersecurity and secure systems
-* Write technical articles about AI and programming
-
-## Featured Projects
-
-Coming soon...
-
-## Connect With Me
-
-* GitHub: https://github.com/byhemish
-
----
-
-> Keep learning. Keep building. Keep improving.
+### Find me on GitHub
+[github.com/byhemish](https://github.com/byhemish)
